@@ -1,4 +1,5 @@
 # The default targets to be built if none are specified
+
 group "default" {
   targets = ["bare", "devel", "cloud", "lightwood", "huggingface"]
 }
